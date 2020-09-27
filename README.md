@@ -3,4 +3,4 @@
 <!--
 **Aaishpra/Aaishpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://media1.tenor.com/images/9ea72ef078139ced289852e8a4ea0c5c/tenor.gif?itemid=7537923" width="40" height="40" />
+<img src="https://media.giphy.com/media/YrZECW1GgBkqat6F0B/giphy.gif" width="40" height="40" />
