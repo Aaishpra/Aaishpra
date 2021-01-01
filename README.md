@@ -4,7 +4,7 @@
 **Aaishpra/Aaishpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on y our GitHub profile.
 -->
 <p align='center'>
-Hi, I am Shipra Verma, I am a sophmore in Electronics Engineering at Harcourt Butler Technical University Kanpur. Currently i am working on my projects involving Django. I like collaborating on projects having ReactJs, ReactNative and AngularJs for frontend, and Django or flask for backend. 
+Hi, I am Shipra Verma, a sophmore in Electronics Engineering at Harcourt Butler Technical University Kanpur.I love experimenting with new techs and languages and currently Django has become the centre of my interests. I also like collaborating on projects having ReactJs, ReactNative or AngularJs for frontend, and Django or flask for backend. Other than this, you might find me binging on Kdramas or reading Webtoons.
 </p>
 
 ## Techs I Use 
