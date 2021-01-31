@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="30"/> Hey! Fellow Developer nice to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="30"/></h1>
+<h1 align="center">Hey! Fellow Developer nice to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="30"/></h1> 
  
 <!--
 **Aaishpra/Aaishpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on y our GitHub profile.
