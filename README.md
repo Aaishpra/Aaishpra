@@ -4,7 +4,7 @@
 **Aaishpra/Aaishpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on y our GitHub profile.
 -->
 <p align='center'>
-So, let's start with a brief introduction of mine.I am Shipra Verma, a sophmore in Electronics Engineering at Harcourt Butler Technical University Kanpur and currently acting as an Open Source Maintainer(Project Maintainer) and OSH (Open Source Hack) mentor for AnitaB.org and Admin and Mentor for GSSOC21. I love experimenting with new technologies and frameworks and sharing or learning them with others here the Open Source Community. Django and ReactJs are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on Kdramas or reading Webtoons.
+So, let's start with a brief introduction of mine. I am Shipra Verma, a sophmore in Electronics Engineering at Harcourt Butler Technical University Kanpur and currently acting as an Open Source Maintainer(Project Maintainer) and OSH (Open Source Hack) mentor for AnitaB.org and Admin and Mentor for GSSOC21. I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community. Django and ReactJs are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on Kdramas or reading Webtoons.
 </p>
 
 ## Techs I Use 
