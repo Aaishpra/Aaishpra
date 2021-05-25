@@ -1,11 +1,15 @@
+<em>
+
 <h1 align="center">Hey! Fellow Developer nice to meet you! <img src="https://emojis.slackmojis.com/emojis/images/1531847724/4240/blob-hearts.gif?1531847724" width="30"/></h1> 
 
 <!--
 **Aaishpra/Aaishpra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on y our GitHub profile.
 -->
 <p align='center'>
-So, let's start with a brief introduction of mine. I am Shipra Verma, a sophmore in Electronics Engineering at Harcourt Butler Technical University Kanpur. I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community. Currently I am learning Golang and trying to build some useful applications with it. Django and ReactJs are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on Kdramas or reading Webtoons.
-</p>
+
+So, let's start with a brief introduction of mine. I am Shipra Verma, a sophmore in Electronics Engineering at [Harcourt Butler Technical University Kanpur](https://hbtu.ac.in/). I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community. Currently I am learning [Golang](https://tour.golang.org/basics/1) and trying to build some useful applications with it. [Django](https://www.djangoproject.com/) and [ReactJs](https://reactjs.org/) are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on Kdramas or reading Webtoons.
+
+ </p>
 
 ## Techs I Use 
 <p align='center'>
@@ -32,4 +36,5 @@ So, let's start with a brief introduction of mine. I am Shipra Verma, a sophmore
   <a href="https://www.linkedin.com/in/shipra-verma-76a4611ab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="https://medium.com/@vaaishpra19"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </a>
-  
+
+</em>
