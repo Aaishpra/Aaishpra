@@ -7,7 +7,7 @@
 -->
 <p align='center'>
 
-So, let's start with a brief introduction of mine. I am Shipra Verma, a junior in Electronics Engineering at [Harcourt Butler Technical University Kanpur](https://hbtu.ac.in/). I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community. Currently I am learning [Golang](https://tour.golang.org/basics/1) and trying to build some useful applications with it. [Django](https://www.djangoproject.com/) and [ReactJs](https://reactjs.org/) are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on Kdramas or reading Webtoons.
+So, let's start with a brief introduction of mine. I am Shipra Verma, a junior in Electronics Engineering at [Harcourt Butler Technical University Kanpur](https://hbtu.ac.in/). I love experimenting with new technologies and frameworks and sharing or learning them with others here in the Open Source Community. tour. [Django](https://www.djangoproject.com/) and [ReactJs](https://reactjs.org/) are my favourite Frameworks when it comes to develop and collaborate on applications. Other than this, you might find me binging on Kdramas or reading Webtoons.
 
  </p>
 
