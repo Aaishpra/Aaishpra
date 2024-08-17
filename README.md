@@ -33,7 +33,7 @@ So, let's start with a brief introduction of mine. I am Shipra Verma, a junior i
 <p align='center'>
   <a href="https://www.github.com/Aaishpra/"><img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a> 
   <a href="mailto:vaaishpra19@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shipra-verma-76a4611ab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
  <a href="https://medium.com/@vaaishpra19"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
  </a>
 
